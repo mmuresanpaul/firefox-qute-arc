@@ -1,8 +1,8 @@
-#Firefox Qute-Arc 
+# Firefox Qute-Arc 
 
 Based on Luke Smith's firefox [theme](http://lukesmith.xyz/longterm/lukeskin.css)
  
-##Description
+## Description
 A firefox qutebrowser-like theme using the arc theme colors.
 
 **How to use** 
